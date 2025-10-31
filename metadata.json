@@ -1,0 +1,5 @@
+{
+  "name": "XColor - Experience Color Blindness",
+  "description": "An interactive web app that lets users see how people with color vision deficiencies perceive colors. Choose a color to see simulations for various types of color blindness.",
+  "requestFramePermissions": []
+}
